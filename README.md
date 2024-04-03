@@ -1,6 +1,7 @@
 # Dotfiles for my current setup
 ## Requirements
 - Caskaydia Cove (Cascadia Code Nerd Font)
+- xorg
 - i3
 - Picom
 - Emacs (If you want to use my emacs config)
