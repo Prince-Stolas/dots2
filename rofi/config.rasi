@@ -1,0 +1,10 @@
+configuration{
+    modi: "run";
+    terminal: "alacritty";
+    location: 0;
+    disable-history: false;
+    hide-scrollbar: true;
+    display-run: " run ";
+}
+
+@theme "catppuccin-mocha"
